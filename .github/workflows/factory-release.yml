@@ -28,7 +28,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  FACTORY_REPO: VitruvianOS/VitruvianFactory
+  FACTORY_REPO: be-linux/VitruvianFactory
   # The counter ran to rev-114 as tags in this repository before it moved
   # to Factory. Numbering continues from there rather than restarting, so
   # a rev still means one thing across the whole history. Only relevant
